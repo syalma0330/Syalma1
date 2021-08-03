@@ -1,0 +1,23 @@
+{
+  "name": "projek1",
+  "version": "1.0.0",
+  "description": "Modul NodeJS Pertama",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Hello World!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syalma0330/ProjekSyalma.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Syalma Audhia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syalma0330/ProjekSyalma/issues"
+  },
+  "homepage": "https://github.com/syalma0330/ProjekSyalma#readme"
+}
